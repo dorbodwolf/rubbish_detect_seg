@@ -16,7 +16,7 @@ import numpy as np
 from skimage import io as skio
 from tqdm import tqdm
 from pathlib import Path,PurePosixPath
-# import shapefile
+import shapefile
 import collections
 from itertools import chain
 from PIL import Image
